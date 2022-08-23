@@ -1,16 +1,15 @@
-A graduate student at the University of Utah, Biomedical Engineering Department. I am passionate about developing and using machine learning algorithms to solve real-world problems at the intersection of precision oncology, digital health and medical big-data. Currently, I am working at the Scientific Computing and Imaging (SCI) Institute at the University of Utah as a graduate researcher.
+I am currently working in TIRI LAB @JHU as a Research Program Assistant and Lead Data Manager. I graduated from University of Utah, Biomedical Engineering Department. I am passionate about developing and using machine learning algorithms to solve real-world problems at the intersection of precision medicine, digital health and medical big-data. 
 
 Languages: Python, SQL, MATLAB, C
 
-Packages: Scikit-learn, Scikit-bio,NumPy, Pandas, Matplotlib, ggplot2, Pyplot, BeautifulSoup, TensorFlow, Scipy
+Packages: Scikit-learn, Scikit-bio,NumPy, Pandas, Matplotlib, ggplot2, Pyplot, Seaborn, TensorFlow, Keras, nltk, re
 
-Softwares: Eagle PCB designer,PEBL, Jupyter Notebook, Arduino IDE, LabView, 3D Slicer, SolidWorks
+Softwares: Jupyter Notebook, LabView, 3D Slicer, SPSS, Paraview
 
-Scientific Computing Environment: HPC
 
 
 - 👋 Hi, I’m @nidhisoley
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m currently Natural Language Processing
 - 💞️ I’m looking to collaborate on any project realted to application of ML/AI in healthcare
-- 📫 How to reach me- nidhi.soley@utah.edu
+- 📫 How to reach me- nsoley1@jhu.edu
 
