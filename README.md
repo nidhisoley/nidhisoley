@@ -9,7 +9,7 @@ Softwares: Jupyter Notebook, LabView, 3D Slicer, SPSS, Paraview
 
 
 - 👋 Hi, I’m @nidhisoley
-- 🌱 I’m currently Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on any project realted to application of ML/AI in healthcare
 - 📫 How to reach me- nsoley1@jhu.edu
 
